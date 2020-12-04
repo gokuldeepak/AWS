@@ -1,2 +1,3 @@
+aws ec2 describe-instances --profile user1
 aws ec2 describe-instances
 aws ec2 start-instances --instance-ids i-12345678c
